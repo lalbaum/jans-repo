@@ -1,1 +1,2 @@
 Ds ist eine Textdatei geändert über Github
+Zusatz von Lothar
