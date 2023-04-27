@@ -4,3 +4,4 @@ Zusatz von Lothar
  
  Fixed issue-1
  mit  Änderung drei für Submodul in master
+mit zweiter Änderung für Lothar
